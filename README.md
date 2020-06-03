@@ -5,6 +5,9 @@ Authentication System
 * Login & Logout
 * Registration
 * Data Retrieve from DB
-* using msql & php(with_source_code) 
-* use SharedPreference
+* Available 
+  * msql 
+  * php(with_source_code) 
+  * json
+  * SharedPreference
 
